@@ -1,0 +1,38 @@
+
+{
+  "name": "olaz-enterprise",
+  "version": "1.0.0",
+  "description": "Official website for Olaz Enterprise - Premium Souvenirs, Plates, Flasks & Gifts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "business",
+    "souvenirs",
+    "plates",
+    "flasks",
+    "gifts",
+    "enterprise",
+    "olaz",
+    "e-commerce"
+  ],
+  "author": "Olaz Enterprise",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olaz-enterprise/website"
+  },
+  "bugs": {
+    "url": "https://github.com/olaz-enterprise/website/issues"
+  },
+  "homepage": "https://olazenterprise.com"
+}
